@@ -26,19 +26,29 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_17--20-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=primetek&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### DevOps & Infraestructura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -66,6 +76,7 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -87,10 +98,12 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
+| **[Integración de Pagos PLUX](https://github.com/Bryan0695/Trabajo-grupal)** | Sistema de pago con API PLUX S.A. — soporte para flujos Normal, OTP, 3DS V1 y V2. Cifrado AES-256-ECB + RSA | Angular 19 · Node.js · Express · Jest |
+| **[Proyecto de Titulación](https://github.com/Bryan0695/Titulacion)** | Plataforma full-featured con Angular 19, PrimeNG y TailwindCSS | Angular 19 · PrimeNG · TailwindCSS · Chart.js |
+| **[Denuncias Ecuador API](https://github.com/Bryan0695/Denuncias-del-Ecuador-Proyecto-Uees)** | API REST en ASP.NET Core con frontend Angular y base de datos SQLite georreferenciada | ASP.NET Core · C# · Angular · SQLite |
+| **[Biblioteca Virtual](https://github.com/Bryan0695/movilBiblioteca)** | App móvil CRUD desarrollada en Flutter | Flutter · Dart |
 | **MongoDB Backup Tool** | Herramienta interna para automatizar respaldos y restauración entre ambientes | Node.js · Express · Docker |
-| **Docker Compose POS** | Orquestación de microservicios POS con redes dedicadas y volúmenes por ambiente | Docker · Docker Compose · Linux |
 | **CI/CD Multi-ambiente** | Pipelines de build y release con promoción automatizada de imágenes Docker | Azure DevOps · ACR |
-| **Workflow Automation** | Flujos en n8n y ELSA para aprobaciones y procesos operativos del grupo | n8n · ELSA Workflows |
 
 ---
 
@@ -112,7 +125,7 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 <div align="center">
 
 ![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan0695&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan0695&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan0695&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -131,5 +144,5 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ---
 
 <div align="center">
-<sub>⚡ Aprendiendo actualmente: Kubernetes · React Native · Flutter · PostgreSQL · Java</sub>
+<sub>⚡ Aprendiendo actualmente: Kubernetes · React Native · Flutter avanzado · PostgreSQL · Java</sub>
 </div>
