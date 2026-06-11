@@ -26,7 +26,7 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular_17--20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_17--21-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -41,12 +41,15 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 ### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
@@ -59,10 +62,15 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 
 ### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apache-couchdb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### State Management
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS_Signals-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
 ### Testing & Monitoreo
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -98,12 +106,13 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| **[Integración de Pagos PLUX](https://github.com/Bryan0695/Trabajo-grupal)** | Sistema de pago con API PLUX S.A. — soporte para flujos Normal, OTP, 3DS V1 y V2. Cifrado AES-256-ECB + RSA | Angular 19 · Node.js · Express · Jest |
+| **Gestión Escolar App** *(privado)* | App móvil **offline-first** con sincronización a Supabase. Gestión de notas, alertas de riesgo y generación de documentos PDF/Excel | React Native · Expo 54 · Supabase · Zustand · SQLite |
+| **WhatsApp Masivo** *(privado)* | Envío masivo de mensajes WhatsApp con progreso en tiempo real, reanudación automática y 75 tests unitarios | Angular 21 Signals · Socket.IO · Puppeteer · Jest |
+| **[Integración de Pagos PLUX](https://github.com/Bryan0695/Trabajo-grupal)** | Sistema de pago con flujos Normal, OTP, 3DS V1 y V2. Cifrado AES-256-ECB + RSA | Angular 19 · Node.js · Express · Jest |
 | **[Proyecto de Titulación](https://github.com/Bryan0695/Titulacion)** | Plataforma full-featured con Angular 19, PrimeNG y TailwindCSS | Angular 19 · PrimeNG · TailwindCSS · Chart.js |
-| **[Denuncias Ecuador API](https://github.com/Bryan0695/Denuncias-del-Ecuador-Proyecto-Uees)** | API REST en ASP.NET Core con frontend Angular y base de datos SQLite georreferenciada | ASP.NET Core · C# · Angular · SQLite |
+| **[Denuncias Ecuador API](https://github.com/Bryan0695/Denuncias-del-Ecuador-Proyecto-Uees)** | API REST en ASP.NET Core con frontend Angular y SQLite georreferenciada | ASP.NET Core · C# · Angular · SQLite |
 | **[Biblioteca Virtual](https://github.com/Bryan0695/movilBiblioteca)** | App móvil CRUD desarrollada en Flutter | Flutter · Dart |
-| **MongoDB Backup Tool** | Herramienta interna para automatizar respaldos y restauración entre ambientes | Node.js · Express · Docker |
-| **CI/CD Multi-ambiente** | Pipelines de build y release con promoción automatizada de imágenes Docker | Azure DevOps · ACR |
+| **MongoDB Backup Tool** *(privado)* | Herramienta interna para automatizar respaldos y restauración entre ambientes en producción | Node.js · Express · Angular · Docker |
 
 ---
 
@@ -144,5 +153,5 @@ Desarrollador **Full Stack Junior** con experiencia real en entornos empresarial
 ---
 
 <div align="center">
-<sub>⚡ Aprendiendo actualmente: Kubernetes · React Native · Flutter avanzado · PostgreSQL · Java</sub>
+<sub>⚡ Aprendiendo actualmente: Kubernetes · Flutter avanzado · PostgreSQL · Java</sub>
 </div>
